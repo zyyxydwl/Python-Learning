@@ -19,5 +19,7 @@ age=21
 print('hello ' + name)
 print('hello %s',name)
 # %s 表示字符串，%d 表示整型， %f表示浮点型
-print('hello {0}'.format(name))       #执行效率是最高的
-print('Hello {0},your age is: {1}'.format(name,age))
+print("hello {0}".format(name))      #执行效率是最高的
+print("Hello {0},your age is: {1}".format(name,age))
+
+

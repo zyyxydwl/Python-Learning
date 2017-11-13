@@ -1,0 +1,14 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+CRITICAL:root:Host www.python.org unknown
+ERROR:root:Couldn't find 'spam'
+WARNING:root:Feature is deprecated
+INFO:root:Opening file 'data.csv', mode='r'
+DEBUG:root:Got here

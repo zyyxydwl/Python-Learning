@@ -4,7 +4,6 @@
 # @Author    : zhouyuyao
 # @File      : ninePaper.py
 
-
 # 4.九宫格
 # ABC     A:1-9; B:1-9 -A; C=1-9 -A-B
 # EFG
@@ -59,7 +58,7 @@ class NinePaper(object):
                                         l8.remove(H)
                                         for I in l8:
                                                 if A+B+C==E+F+D==H+I+G==A+E+I==B+E+H==C+G+E==A+E+I==C+F+I==15:
-                                                    print('''        
+                                                    print('''
  ___________
 |_{0}_|_{1}_|_{2}_|
 |_{3}_|_{4}_|_{5}_|

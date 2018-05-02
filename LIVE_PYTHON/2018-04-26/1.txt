@@ -1,0 +1,6 @@
+# import requests
+#
+# url = 'http://item.jd.com/17812015666.html?sku=17812015666&shopid=0&enc=dTFbliUKvSmdZmujuZQ8bzjOdBDr_gUlMmJahJ5z5ru3nqlDnlgI65uBDwj-uWH6WOa2g1K9EdhuKyT9u5oExqNzEW9Qgtm81cMRJoLqFls%3D&tk=e89355666f27cc84d24bcd404c603a0c&share=1&fs=1&gt=1524751659&spu=17812015666&v=1&couponValue=10&couponId=113337465'
+# session = requests.session()
+# r = session.get(url)
+# print(r.text)

@@ -2,59 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451a9cef-e355-41c5-a8a0-ba9679209d24" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/countFun.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/eatPeach.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/fileReadWrite.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/numberRiddle.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/pingpong.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/six.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/waterflower.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/daemonCalculator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/demon1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/demonDict.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/demonMethod.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/demonTuple.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/1-dataType/listExp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/2-logical/Factorial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/2-logical/Multiplication.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/2-logical/countnums.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/2-logical/demonIfWhileFor.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/2-logical/operation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/3-fileOption/demonWrite.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/3-fileOption/fileMethod.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/3-fileOption/passwd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/3-fileOption/sortUIDPasswd.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/4-classEXP/nine.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/Basics/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/functionE/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/functionE/countDayMonthYear.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/functionE/demon1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/functionE/demonDecorator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/functionE/paramArgs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/python3/functionE/production.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/English.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/HistoryE/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/HistoryE/history.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/HistoryE/history.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/InquireE/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/InquireE/dictionary.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/InquireE/inquire.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Interface/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Interface/interface.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Loginlog/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Loginlog/loginlog.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Userinput/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Userinput/userinput.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Users/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Users/user.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/queryDictionary/Users/users.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/seven.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/1-基础/111111.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/1-Exp_If/111111.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/1-Exp_If/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2-Exp_while/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/111.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/openFile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-22/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-22/demon1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/1.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/daemon.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon3.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon6.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon7.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/3-Exp_for/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LIVE_PYTHON/datedate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/work/2018-04-13/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/work/2018-04-13/repFile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/work/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/1-基础/five.py" afterPath="$PROJECT_DIR$/1-基础/five.py" />
-      <change beforePath="$PROJECT_DIR$/1-基础/ninePaper.py" afterPath="$PROJECT_DIR$/1-基础/ninePaper.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,21 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="countDayMonthYear.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python3/functionE/countDayMonthYear.py">
+      <file leaf-file-name="demon1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-22/demon1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="daemonCalculator.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/daemonCalculator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <state relative-caret-position="26">
+              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -106,33 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1-基础/one.py" />
-        <option value="$PROJECT_DIR$/1-基础/two.py" />
-        <option value="$PROJECT_DIR$/1-基础/three.py" />
-        <option value="$PROJECT_DIR$/1-基础/countNumber.py" />
-        <option value="$PROJECT_DIR$/1-基础/four.py" />
-        <option value="$PROJECT_DIR$/1-基础/waterflower.py" />
-        <option value="$PROJECT_DIR$/1-基础/five.py" />
-        <option value="$PROJECT_DIR$/1-基础/pingpong.py" />
-        <option value="$PROJECT_DIR$/1-基础/numberRiddle.py" />
-        <option value="$PROJECT_DIR$/1-基础/six.py" />
-        <option value="$PROJECT_DIR$/1-基础/eatPeach.py" />
-        <option value="$PROJECT_DIR$/1-基础/ninePaper.py" />
-        <option value="$PROJECT_DIR$/1-基础/fileReadWrite.py" />
-        <option value="$PROJECT_DIR$/1-基础/countFun.py" />
-        <option value="$PROJECT_DIR$/seven.py" />
-        <option value="$PROJECT_DIR$/py-aming.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/register/criticaInfo.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/login.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/History/history.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/Inquire/inquire.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/Users/user.txt" />
-        <option value="$PROJECT_DIR$/queryDictionary/user.txt" />
-        <option value="$PROJECT_DIR$/python3/Basics/1-dataType/demon1.py" />
-        <option value="$PROJECT_DIR$/python3/Basics/1-dataType/listExp.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/Users/users.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/English.py" />
-        <option value="$PROJECT_DIR$/queryDictionary/Interface/interface.py" />
         <option value="$PROJECT_DIR$/queryDictionary/InquireE/inquire.py" />
         <option value="$PROJECT_DIR$/queryDictionary/Userinput/userinput.py" />
         <option value="$PROJECT_DIR$/queryDictionary/HistoryE/history.py" />
@@ -157,12 +103,39 @@
         <option value="$PROJECT_DIR$/python3/Basics/4-classEXP/paramArgs.py" />
         <option value="$PROJECT_DIR$/python3/functionE/production.py" />
         <option value="$PROJECT_DIR$/python3/functionE/demonDecorator.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/1-Exp_If/111111.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/datedate.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/111" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/111.log" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/222.log" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/openFile.py" />
+        <option value="$PROJECT_DIR$/work/2018-04-13/repFile.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon1.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon2.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon3.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon4.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon5.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/daemon.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/1.txt" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon1.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon2.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon3.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon4.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon2.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon1.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon3.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon4.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon5.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon6.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon7.py" />
+        <option value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-22/demon1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="300" />
-    <option name="width" value="1627" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="634" />
+    <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -199,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,39 +183,24 @@
             <path>
               <item name="Python-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="python3" type="462c0819:PsiDirectoryNode" />
+              <item name="LIVE_PYTHON" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="python3" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="LIVE_PYTHON" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-04-22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="python3" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="1-dataType" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="python3" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="4-classEXP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="python3" type="462c0819:PsiDirectoryNode" />
-              <item name="functionE" type="462c0819:PsiDirectoryNode" />
+              <item name="LIVE_PYTHON" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-04-28" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -251,12 +210,14 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\GitHub\Python-Learning\python3\functionE" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\Python-Learning\LIVE_PYTHON\2018-04-12" />
+      <recent name="E:\GitHub\Python-Learning\1-基础" />
       <recent name="E:\GitHub\Python-Learning\queryDictionary\InquireE" />
       <recent name="E:\GitHub\Python-Learning\queryDictionary" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\Python-Learning\python3\functionE" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,25 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demonDecorator">
-    <configuration name="countDayMonthYear" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3/functionE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3/functionE/countDayMonthYear.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demon1">
     <configuration name="demon1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,85 +240,103 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3/functionE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3/functionE/demon1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-22/demon1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demonDecorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demon4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3/functionE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3/functionE/demonDecorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="paramArgs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demon5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3/Basics/4-classEXP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Learning" />
-      <option name="SCRIPT_NAME" value="E:\GitHub\Python-Learning\python3\functionE\paramArgs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="production" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demon6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python3/functionE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python3/functionE/production.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="demon7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.demon1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.countDayMonthYear" />
-      <item index="2" class="java.lang.String" itemvalue="Python.paramArgs" />
-      <item index="3" class="java.lang.String" itemvalue="Python.production" />
-      <item index="4" class="java.lang.String" itemvalue="Python.demonDecorator" />
+      <item index="0" class="java.lang.String" itemvalue="Python.demon4 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.demon5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demon6" />
+      <item index="3" class="java.lang.String" itemvalue="Python.demon7" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demon1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.demonDecorator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.production" />
-        <item index="2" class="java.lang.String" itemvalue="Python.paramArgs" />
-        <item index="3" class="java.lang.String" itemvalue="Python.countDayMonthYear" />
-        <item index="4" class="java.lang.String" itemvalue="Python.demon1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demon1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demon7" />
+        <item index="2" class="java.lang.String" itemvalue="Python.demon6" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demon5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demon4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -396,19 +357,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="0" width="1627" height="1047" extended-state="0" />
+    <frame x="634" y="0" width="1294" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16740088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26035032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29431072" sideWeight="0.50259835" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3107221" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3249453" sideWeight="0.49740162" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53501093" sideWeight="0.49740162" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38293216" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35886213" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -418,251 +379,37 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29431072" sideWeight="0.50259835" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3107221" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29431072" sideWeight="0.49740162" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25889164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38293216" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1-基础/numberRiddle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/six.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/eatPeach.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/fileReadWrite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/four.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seven.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/countFun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/register/criticaInfo.py" />
-    <entry file="file://$PROJECT_DIR$/py-aming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-基础/dictionary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/Users/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/demon1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/listExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/user.txt" />
-    <entry file="file://$PROJECT_DIR$/queryDictionary/InquireE/dictionary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/dictionary.txt" />
-    <entry file="file://$PROJECT_DIR$/queryDictionary/Users/user.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/InquireE/inquire.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="1667" column="0" lean-forward="false" selection-start-line="1667" selection-start-column="0" selection-end-line="1667" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/demonTuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/demonDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/demonMethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/HistoryE/history.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/HistoryE/history.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/2-logical/Factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/2-logical/operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/2-logical/demonIfWhileFor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/Interface/interface.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/Users/users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/2-logical/Multiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/Basics/2-logical/countnums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/Userinput/userinput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queryDictionary/Loginlog/loginlog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/queryDictionary/English.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -737,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,22 +498,271 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="679">
           <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python3/functionE/countDayMonthYear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python3/Basics/1-dataType/daemonCalculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state relative-caret-position="601">
+          <caret line="71" column="1" lean-forward="false" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python3/functionE/countDayMonthYear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="58" column="29" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/1-Exp_If/111111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-基础/111111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiProcessingExp/queueExp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/datedate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-12.py" />
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/111.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1378" column="11" lean-forward="true" selection-start-line="1378" selection-start-column="11" selection-end-line="1378" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/seventh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/sixth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/tenth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/222.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="52">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-12/openFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1900">
+          <caret line="276" column="14" lean-forward="false" selection-start-line="276" selection-start-column="14" selection-end-line="276" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/2018-04-13/repFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-19/demon4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="211" column="0" lean-forward="false" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/daemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-26/demon2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-28/demon6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LIVE_PYTHON/2018-04-22/demon1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           <folding />
         </state>
       </provider>

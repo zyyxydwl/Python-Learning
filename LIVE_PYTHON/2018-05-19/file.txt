@@ -1,0 +1,8 @@
+Lock acquired via with
+Lock acquired directly
+Lock acquired via with
+Lock acquired directly
+Lock acquired via with
+Lock acquired directly
+Lock acquired via with
+Lock acquired directly

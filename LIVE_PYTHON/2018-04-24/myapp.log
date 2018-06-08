@@ -1,0 +1,16 @@
+ 2018-05-29 16:07:02 log-to-file.py[line:31] INFO ��ʼ run main()
+ 2018-05-29 16:18:59 log-to-file.py[line:34] INFO run hello()
+ 2018-05-29 16:18:59 log-to-file.py[line:39] ERROR is not 0
+ 2018-05-29 16:19:00 log-to-file.py[line:41] WARNING the file was not closed
+2018-05-29 16:56:04,612 log-to-file.py[line:39] INFO 开始 run main()
+2018-05-29 16:56:04,612 log-to-file.py[line:42] INFO run hello()
+2018-05-29 16:56:04,612 log-to-file.py[line:47] ERROR is not 0
+2018-05-29 16:56:04,613 log-to-file.py[line:49] WARNING the file was not closed
+2018-05-29 16:58:01,685 log-to-file.py[line:39] INFO 开始运行 main() 函数
+2018-05-29 16:58:01,685 log-to-file.py[line:42] INFO 执行 hello() 函数
+2018-05-29 16:58:01,685 log-to-file.py[line:47] ERROR 除数不能为 0
+2018-05-29 16:58:01,686 log-to-file.py[line:49] WARNING 该文件没有正常关闭
+2018-05-29 16:58:02,851 log-to-file.py[line:39] INFO 开始运行 main() 函数
+2018-05-29 16:58:02,851 log-to-file.py[line:42] INFO 执行 hello() 函数
+2018-05-29 16:58:02,851 log-to-file.py[line:47] ERROR 除数不能为 0
+2018-05-29 16:58:02,851 log-to-file.py[line:49] WARNING 该文件没有正常关闭
